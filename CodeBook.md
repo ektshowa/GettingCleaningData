@@ -6,6 +6,8 @@ The the data where obtained from experiments carried out with a group of 30 volu
 
 The sensor signals (accelerometer and gyroscope) were pre-processed by applying noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50% overlap (128 readings/window). The sensor acceleration signal, which has gravitational and body motion components, was separated using a Butterworth low-pass filter into body acceleration and gravity. The gravitational force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. From each window, a vector of features was obtained by calculating variables from the time and frequency domain
 
+The original datasets files are in the directory "UCI-HAR-Dataset" that we get from the unzip of downloaded file.
+
 Listed below are the datasets files
 
 * UCI-HAR-Dataset/test/X_test.txt           :List of all features.
