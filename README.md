@@ -12,7 +12,6 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 
 The datasets can be found in the files
 
-* 'features_info.txt': Shows information about the variables used on the feature vector.
 * 'features.txt': List of all features.
 * 'activity_labels.txt': Links the class labels with their activity name.
 * 'train/X_train.txt': Training set.
