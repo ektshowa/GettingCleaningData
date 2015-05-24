@@ -87,10 +87,29 @@ All the variables listed below are numeric contained in the interval [-1,1]
 * fBodyAccJerkstdY:	Standard deviation of Jerk signal(for frequency domain) for body acceleration on axis Y      
 * fBodyAccJerkstdZ:	Standard deviation of Jerk signal(for frequency domain) for body acceleration on axis Z
 * fBodyAccJerkmeanFreqX:	Mean frequency of Jerk signal(for frequency domain signal) for body acceleration on axis X
-* fBodyAccJerkmeanFreqY:	Mean frequency of Jerk signal(for frequency domain signal) for body acceleration on axis Y * fBodyAccJerkmeanFreqZ:	Mean frequency of Jerk signal(for frequency domain signal) for body acceleration on axis Z
+* fBodyAccJerkmeanFreqY:	Mean frequency of Jerk signal(for frequency domain signal) for body acceleration on axis Y 
+* fBodyAccJerkmeanFreqZ:	Mean frequency of Jerk signal(for frequency domain signal) for body acceleration on axis Z
 * fBodyGyromeanX:	Mean value of frequency domain signal for body gyroscope on axis X
 * fBodyGyromeanY: Mean value of frequency domain signal for body gyroscope on axis Y             
 * fBodyGyromeanZ: Mean value of frequency domain signal for body gyroscope on axis Z  
+* fBodyGyrostdX: Standard deviation of frequency domain signal for body gyroscope on axis X
+* fBodyGyrostdY: Standard deviation of frequency domain signal for body gyroscope on axis y             
+* fBodyGyrostdZ: Standard deviation of frequency domain signal for body gyroscope on axis Z
+* fBodyGyromeanFreqX: Mean frequency of frequency domain signal of body gyroscope on axis X
+* fBodyGyromeanFreqY: Mean frequency of frequency domain signal of body gyroscope on axis Y         
+* fBodyGyromeanFreqZ: Mean frequency of frequency domain signal of body gyroscope on axis Z
+* fBodyAccMagmean: Mean value of magnitude of frequency domain signal for body aceleration
+* fBodyAccMagstd: Standard deviation of magnitude of frequency domain signal for body aceleration
+* fBodyAccMagmeanFreq: Mean frequency of magnitude of frequency domain signal for body aceleration
+* fBodyBodyAccJerkMagmean: Mean value of magnitude of Jerk signal(for the body acceleration) in frequency domain
+* fBodyBodyAccJerkMagstd: Standard deviation of magnitude of Jerk signal(for the body acceleration) in frequency domain      
+* fBodyBodyAccJerkMagmeanFreq: Mean frequency value of magnitude of Jerk signal(for the body acceleration) in frequency domain
+* fBodyBodyGyroMagmean: Mean value of magnitude of frequency domain signal for body gyroscope 
+* fBodyBodyGyroMagstd: Standard deviation of magnitude of frequency domain signal for body gyroscope         
+* fBodyBodyGyroMagmeanFreq: Mean frequency of magnitude of frequency domain signal for body gyroscope
+* fBodyBodyGyroJerkMagmean: Mean value of magnitude of Jerk signal(for the body gyroscope) in frequency domain 
+* fBodyBodyGyroJerkMagstd: Standard deviation of magnitude of Jerk signal(for the body gyroscope) in frequency domain     
+* fBodyBodyGyroJerkMagmeanFreq: Mean frequency of magnitude of Jerk signal(for the body gyroscope) in frequency domain
 
 
  
